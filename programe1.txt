@@ -1,0 +1,4 @@
+int a = 0;
+int b=10;
+int c= a/b;
+sysout(c)-it throwing airthmetic experission
