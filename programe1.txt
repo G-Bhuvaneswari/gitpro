@@ -2,3 +2,11 @@ int a = 0;
 int b=10;
 int c= a/b;
 sysout(c)-it throwing airthmetic experission
+
+array index out of bounce
+
+int a[]={1,2,4,};
+a.add[4];
+it throw array index out of bounce
+
+
