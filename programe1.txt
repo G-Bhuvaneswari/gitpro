@@ -2,3 +2,10 @@ int a = 0;
 int b=10;
 int c= a/b;
 sysout(c)-it throwing airthmetic experission
+
+null pointer?
+
+int a = null;
+int b=10;
+int c=a/b;
+sysout(c)-it throwing null pointer experission
